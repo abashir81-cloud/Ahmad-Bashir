@@ -1,0 +1,5 @@
+{
+  "name": "Generator RPM - Rencana Pembelajaran Mendalam Dan Kurikulum Berbasis Cinta",
+  "description": "A comprehensive deep learning plan generator for Madrasah (MI, MTs, MA) using Gemini AI to automate structured learning designs, pedagogical practices, and assessments based on Indonesian curriculum standards.",
+  "requestFramePermissions": []
+}
